@@ -1,4 +1,4 @@
-# GitHub Spec Kit 실습 가이드
+# GitHub Spec Kit 으로 로그인 화면 만들기 실습
 ## 주제: 로그인 화면 만들기 (GitHub Copilot Free + VS Code)
 
 > **이 실습은 간단한 로그인 기능을 만드는 실습이다.**  
