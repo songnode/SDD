@@ -1064,9 +1064,6 @@ constitution.md 변경 프로세스:
 **Q: GitHub Copilot 없이 사용할 수 있나요?**
 A: 현재 이 가이드는 Copilot 연동 기준입니다. Claude, Gemini 등 다른 AI 도구를 사용하는 경우, 각 도구의 공식 Spec Kit 연동 문서를 참고하세요. 명령어 체계는 동일하고 AI 모델만 교체됩니다.
 
-**Q: implement 후 테스트를 위한 전용 명령어가 있나요?**
-A: `/speckit.test` 는 2026년 5월 현재 공식 명령어에 없습니다. 8절에서 설명한 세 가지 방법(checklist testing / analyze 재실행 / constitution.md 테스트 원칙)으로 대응합니다.
-
 **Q: `/speckit.checklist`는 반드시 실행해야 하나요?**
 A: 선택 사항이지만, 팀 프로젝트나 보안·UX가 중요한 기능이라면 강력히 권장합니다. 실행 비용(수 분)보다 구현 후 발견했을 때의 수정 비용(수 시간)이 훨씬 큽니다.
 
