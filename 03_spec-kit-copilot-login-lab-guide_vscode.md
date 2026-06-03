@@ -1,9 +1,9 @@
 # GitHub Spec Kit 실습 가이드
 ## 주제: 로그인 화면 만들기 (GitHub Copilot Free + VS Code)
 
-> **이 실습은 4차시입니다.**  
-> 1차시(SDD 방법론) → 2차시(Spec Kit 가이드) → 실습으로 이어지는 강의입니다.  
-> **도구는 GitHub Copilot Free 로 교체**하여 SDD 방법론이 어떻게 동작하는지 실습합니다.
+> **이 실습은 간단한 로그인 기능을 만드는 실습이다.**  
+> 1차시(SDD 방법론) → 2차시(Spec Kit 가이드) → 실습으로 이어지는 강의이며
+> **도구는 GitHub Copilot Free 를 사용**하여 SDD 방법론이 어떻게 동작하는지 실습한다.
 
 **목표**: VS Code 환경에서 SDD 전체 흐름을 Copilot 으로 체험하고, 로그인 화면을 완성한다  
 **사용 도구**: VS Code (로컬 또는 Codespace), GitHub Copilot Free, specify CLI  
