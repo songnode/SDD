@@ -1,4 +1,4 @@
-# GitHub Spec Kit 실습 가이드 (2차시)
+# GitHub Spec Kit 실습 가이드
 
 > **1차시 복습**: SDD의 4단계(Specify → Plan → Task → Implement) 이론을 학습했습니다.  
 > 이번 시간에는 GitHub Spec Kit 도구에 대해서 학습합니다.
