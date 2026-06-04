@@ -546,7 +546,7 @@ project_principles:
 
   change_management:
     - "API 변경 시 반드시 Spec 먼저 업데이트"
-    - "프로덕션 인시던트 → 명세 개선으로 반드시 반영"
+    - "프로덕션 장애 → 명세 개선으로 반드시 반영"
 ```
 
 #### Layer 2: 기능 명세 (spec.md) — 가장 자주 사용
